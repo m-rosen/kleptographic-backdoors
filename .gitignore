@@ -1,0 +1,9 @@
+data/
+
+x25519/build/
+x25519/out_x25519.bin
+x25519/out_x25519_tries.txt
+
+*.sage.py
+
+__pycache__/
